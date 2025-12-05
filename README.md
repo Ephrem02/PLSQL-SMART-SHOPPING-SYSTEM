@@ -60,3 +60,46 @@ security using advanced database triggers.
 
 ## Business Process Modeling
 ![](<Business process model.png>)
+
+The Business Process Model (BPM) illustrates the workflow of the Smart Shopping Cart System. It visualizes the interactions between three key actors: the Customer, the Smart Cart System and Oracle Database .
+
+
+## ER Diagram and logical model
+
+![](<ER DIAGRAM.png>)
+
+## Entities
+Core entities include Products, Users, Orders, and Order_details and Cart. Each entity is designed to capture essential data, enabling efficient tracking and management of inventory.
+
+## Relationships
+One-to-many relationships are established using Foreign Key (FK) constraints to ensure data integrity and proper linkages between entities. This design supports efficient data retrieval and reporting.
+
+## Normalization
+The database adheres to the Third Normal Form (3NF) to eliminate data redundancy and ensure data consistency. This improves storage efficiency and reduces the risk of data anomalies.
+
+## Constraints
+Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemented to enforce data integrity and business rules. These constraints ensure data quality and prevent invalid entries.
+
+
+## Screenshots
+## PHASE IV: Database Creation and Naming
+## Database Creation
+![](<pdb creation.png>)
+![](<Privileges.png>)
+![](<tablespace creation.png>)
+![](<user creation.png>)
+
+## Oracle Enterprise Manager
+![](<OEM ERROR.png>)
+## PHASE V: Table Implementation and Data Insertion
+
+
+
+
+
+
+
+
+
+
+
