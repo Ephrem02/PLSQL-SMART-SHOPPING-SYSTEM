@@ -1,8 +1,8 @@
 ## 👨🏿‍💻 Author
 
-Manzi Ephrem 27856
-Capstone database Project
-Lecturer: Mr.Maniraguha Eric
+### Manzi Ephrem 27856
+### Capstone database Project
+### Lecturer: Mr.Maniraguha Eric
 
 ## SMART SHOPPING CART SYSTEM
 
