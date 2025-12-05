@@ -84,13 +84,13 @@ Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemen
 ## Screenshots
 ## PHASE IV: Database Creation and Naming
 ## Database Creation
-![](<pdb creation.png>)
-![](<Privileges.png>)
-![](<tablespace creation.png>)
-![](<user creation.png>)
+![](<Screenshots/pdb creation.png>)
+![](<Screenshots/Privileges.png>)
+![](<Screenshots/tablespace creation.png>)
+![](<Screenshots/user creation.png>)
 
 ## Oracle Enterprise Manager
-![](<OEM ERROR.png>)
+![](<Screenshots/OEM ERROR.png>)
 ## PHASE V: Table Implementation and Data Insertion
 
 
