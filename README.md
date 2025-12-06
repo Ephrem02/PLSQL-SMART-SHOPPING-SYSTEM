@@ -92,6 +92,50 @@ Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemen
 ## Oracle Enterprise Manager
 ![](<Screenshots/OEM ERROR.png>)
 ## PHASE V: Table Implementation and Data Insertion
+## Table Creation
+![](<Screenshots/Users table.png>)
+![](<Screenshots/Products table.png>)
+![](<Screenshots/Cart table.png>)
+![](<Screenshots/Orders table.png>)
+![](<Screenshots/Order_details table.png>)
+![](<Screenshots/Payments table.png>)
+![](<Screenshots/Stock_logs table.png>)
+![](<Screenshots/SYSTEM_AUDIT_LOG.png>)
+
+## Data Insertion
+![](<Screenshots/users table insertion.png>)
+![](<Screenshots/Products table insertion.png>)
+![](<Screenshots/Testin users table.png>)
+![](<Screenshots/Products table insertion.png>)
+
+## Data Integrity
+![](<Screenshots/Testin users table.png>)
+![](<Screenshots/subqueries.png>)
+![](<Screenshots/subquery 2.png>)
+![](<Screenshots/count function users table.png>)
+![](<Screenshots/products desc.png>)
+
+## PHASE VI: Data Interaction and Transactions
+## Procedures
+![](<Screenshots/procedures.png>)
+## Exception Handling
+![](<Screenshots/exception handling.png>)
+## Functions
+![](<Screenshots/Functions.png>)
+## Cursors
+![](<Screenshots/Cursors.png>)
+## Window Functions
+
+
+
+
+
+
+
+
+
+
+
 
 
 
