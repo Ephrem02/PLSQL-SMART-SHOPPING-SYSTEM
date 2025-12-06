@@ -114,6 +114,7 @@ Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemen
 ![](<Screenshots/subquery 2.png>)
 ![](<Screenshots/count function users table.png>)
 ![](<Screenshots/products desc.png>)
+![](<Screenshots/joins.png>)
 
 ## PHASE VI: Data Interaction and Transactions
 ## Procedures
@@ -125,6 +126,38 @@ Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemen
 ## Cursors
 ![](<Screenshots/Cursors.png>)
 ## Window Functions
+![](<dense rank.png>)
+![](<SUM_OVER.png>)
+![](<LAG.png>)
+![](<Screenshots/window function count.png>)
+![](<Screenshots/groupby.png>)
+## Packages
+![](<Screenshots/package menu.png>)
+![](<Screenshots/package shopping menu.png>)
+## Testing
+![](<Screenshots/package testing.png>)
+![](<Screenshots/trigger testing.png>)
+![](<function testing.png>)
+![](<procedure testing.png>)
+
+## PHASE VII: Advanced Programming and Auditing
+![](<Screenshots/simple trigger.png>)
+![](<Screenshots/compund security trigger.png>)
+![](<Screenshots/holiday error.png>)
+## Testing Triggers
+![](<TRIGGER/holiday test.png>)
+![](<TRIGGER/week end test.png>)
+![](<TRIGGER/weekday test.png>)
+
+
+
+
+
+
+
+
+
+
 
 
 
