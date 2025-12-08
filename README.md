@@ -66,7 +66,7 @@ The Business Process Model (BPM) illustrates the workflow of the Smart Shopping 
 
 ## ER Diagram and logical model
 
-![](<Screenshots/Screenshot (89) (1).png>)
+![](<Screenshots/ER DIAGRAM.png>)
 
 ## Entities
 Core entities include Products, Users, Orders, and Order_details and Cart. Each entity is designed to capture essential data, enabling efficient tracking and management of inventory.
@@ -92,7 +92,7 @@ Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemen
 ![](<Screenshots/Testing connection.png>)
 
 ## Oracle Enterprise Manager
-![](<Screenshots/OEM ERROR.png>)
+![](<Screenshots/Screenshot (89) (1).png>)
 ## PHASE V: Table Implementation and Data Insertion
 ## Table Creation
 ![](<Screenshots/Users table.png>)
