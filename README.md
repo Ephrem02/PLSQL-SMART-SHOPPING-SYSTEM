@@ -66,7 +66,7 @@ The Business Process Model (BPM) illustrates the workflow of the Smart Shopping 
 
 ## ER Diagram and logical model
 
-![](<ER DIAGRAM.png>)
+![](<Screenshots/Screenshot (89) (1).png>)
 
 ## Entities
 Core entities include Products, Users, Orders, and Order_details and Cart. Each entity is designed to capture essential data, enabling efficient tracking and management of inventory.
