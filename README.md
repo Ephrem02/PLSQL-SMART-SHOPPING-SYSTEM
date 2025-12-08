@@ -88,6 +88,8 @@ Primary Key (PK), Foreign Key (FK), NOT NULL, and CHECK constraints are implemen
 ![](<Screenshots/Privileges.png>)
 ![](<Screenshots/tablespace creation.png>)
 ![](<Screenshots/user creation.png>)
+## Testing Connection
+![](<Screenshots/Testing connection.png>)
 
 ## Oracle Enterprise Manager
 ![](<Screenshots/OEM ERROR.png>)
