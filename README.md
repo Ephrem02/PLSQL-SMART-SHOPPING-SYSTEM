@@ -52,9 +52,9 @@ security using advanced database triggers.
 ## ✅ Usage
 
 1. Execute the `.sql` file in Oracle SQL Developer or SQL*Plus.
-2. Test procedures using:
+2. Test package using:
    ```sql
-   EXEC get_product_info(1);
+   EXEC PKG_SHOPPING.generate_analytics;
    ```
 3. Try inserting or updating products on weekdays to trigger security restrictions.
 
